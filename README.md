@@ -1,10 +1,8 @@
-# Image Captioning with Flickr8k Dataset
-
-## Overview
+# 📢 Image Captioning with Flickr8k Dataset
 
 This project implements an Image Captioning system using the Flickr8k dataset and deep learning techniques. The system generates descriptive captions for images using a combination of Convolutional Neural Networks (CNNs) for image feature extraction and Recurrent Neural Networks (RNNs) with LSTM units for sequence generation.
 
-## Project Structure
+## 🚀 Project Structure
 
 The project is structured as follows:
 
@@ -17,7 +15,7 @@ The project is structured as follows:
 - **Generate Captions for the Image:** Generates captions for new images and evaluates using BLEU scores.
 - **Visualize the Results:** Visualizes actual vs. predicted captions for sample images.
 
-## How to Use
+## ⬇️ How to Use
 
 1. **Setup Environment:**
    - Ensure Python environment is set up with necessary dependencies (`requirements.txt`).
@@ -36,11 +34,11 @@ The project is structured as follows:
    - Use the trained model to generate captions for new images.
    - Visualize the results and evaluate caption quality using BLEU scores.
 
-## Evaluation
+## 🎯 Evaluation
 
 - **BLEU Score:** Evaluates the quality of generated captions against reference captions using the BLEU metric (BiLingual Evaluation Understudy).
 
-## Dependencies
+## 🛠️ Dependencies
 
 Ensure you have the following Python libraries installed:
 
@@ -52,3 +50,20 @@ pillow
 matplotlib
 nltk
 ```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a pull request
+
+## 👉 Contact
+
+For any inquiries or feedback, please reach out to:
+- **Name**: Mohd Ramzan Shareef
+- **Email**: mail.ramzanshareef@gmail.com
+- **GitHub**: [ramzanshareef](https://github.com/ramzanshareef)
